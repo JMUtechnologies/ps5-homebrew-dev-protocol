@@ -46,7 +46,7 @@ int sceSystemServiceLaunchApp(const char *, char **, launch_context_t *);
 
 int main(void)
 {
-    launch_context_t context = {0};
+    launch_context_t context = {.size = sizeof(launch_context_t)};
     char *args[] = {0};
     int rc;
 
