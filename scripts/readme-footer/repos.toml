@@ -53,6 +53,10 @@ trademarks = " This project is not affiliated with or endorsed by Radio Browser.
 releases = true
 trademarks = " This project is not affiliated with or endorsed by iptv-org."
 
+[repos.ProsperoTube]
+releases = true
+trademarks = " This project is not affiliated with or endorsed by YouTube, Google or the EVO Player project. YouTube is a trademark of Google LLC."
+
 [repos."blackbearreloaded.github.io"]
 sdk = "thanks"
 risk = false
