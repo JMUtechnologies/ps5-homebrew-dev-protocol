@@ -1,3 +1,13 @@
+# Preserved copy
+
+This is JMUtechnologies' preservation copy of **ps5-homebrew-dev-protocol**.
+Original project credit: **BlackBearReloaded**, with other contributors credited in the original files.
+
+Recovered upstream commit: `b267a93979c2d3659b1b75a8e80b767400c14bfa`.
+See [PRESERVATION.md](PRESERVATION.md) for provenance, history, and validation limits.
+
+---
+
 # ps5-homebrew-dev-protocol
 
 An evidence-driven workflow and tooling for developing and validating native
